@@ -1,5 +1,4 @@
-//  const search = document.querySelector("input");
-// const searchField = document.querySelector(".searchField");
+
 // const mainClick = document.querySelector(":not(input)");
 
 // const foods = ["Aubergine", "Lasagne", "Thyme"]
@@ -21,7 +20,6 @@
 //     search.style.backgroundColor = "var(--color-grey-950)";
 //     searchField.style.backgroundColor = "var(--color-grey-950)";
 // });
-
 
 function dropdown() {
     document.querySelector(".dropdown").classList.toggle("hidden");
